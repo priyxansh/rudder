@@ -1,0 +1,5 @@
+packages:
+  - path: "github.com/priyxansh/rudder/daemon/internal/models"
+    output_path: "../app/src/types/api.ts"
+    type_mappings:
+      time.Time: "string"
