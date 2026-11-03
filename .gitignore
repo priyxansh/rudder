@@ -32,3 +32,6 @@ Thumbs.db
 *~
 .idea/
 .vscode/
+
+# Internal docs
+internal/
